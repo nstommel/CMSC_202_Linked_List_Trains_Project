@@ -1,5 +1,5 @@
 # CMSC_202_Linked_List_Trains_Project
-This project implements a train station system comprised of linked-list trains that contain train cars adhering to certain rules.
+This project implements a train station system comprised of linked-list trains that contain train cars adhering to certain rules given below. mytest.cpp and station_test.cpp are both files that test the functionality of the train car, train, station, and time classes.
 
 # Background
 
